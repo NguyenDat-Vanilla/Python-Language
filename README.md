@@ -1,2 +1,2 @@
 # My Python-Language Project!
-## Just a normal project as a student
+## This is just a normal student project
